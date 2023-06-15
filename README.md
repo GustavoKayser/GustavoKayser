@@ -1,7 +1,7 @@
 ## Eu sou Gustavo Kayser 
 
 - 🍕 Gosto de matemática, xadrez e programação
-- 👨‍💻 Estou no 1º ano do Ensino Médio
+- 👨‍💻 Estou no 2º ano do Ensino Médio
 - 👓 Linguagens de programação: Python, HTML/CSS/JS, C, C++, C# e JL
 - ✨ Apenas inglês como segunda lingua
 
